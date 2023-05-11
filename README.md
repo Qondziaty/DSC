@@ -1,1 +1,1 @@
-# Project of Discord Clone || ...tbc 
+# Project of Discord Clone || ...in progress 
